@@ -23,7 +23,7 @@
   - **일시** : 2018년 9월 19일
   - **발표자 : 발표주제**
     - 유은총 - [Slack과 Rust로 Amazon ECS에 서비스 배포하기](https://www.slideshare.net/eunchongyu/slack-rust-amazon-ecs)
-    - 김진용 - [스타트업을 위한 지속가능한 컨텐츠 관리를 위한 아키텍처 ]()
+    - 김진용 - [스타트업을 위한 지속가능한 컨텐츠 관리를 위한 아키텍처 ](https://www.slideshare.net/ssuser6050e4/ss-119165106)
     - 윤제상 - [AWS Aurora로의 안전한 마이그레이션 경험 공유 ](https://www.slideshare.net/jesangyoon/amazon-aurora-migration)
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/2018-09-19.jpg" width="400"/>
