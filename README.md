@@ -11,6 +11,31 @@
 
 # Meetups
 
+## 9차 모임 : [로그 분석기 Serverless Architecture 로 구축하기 & 포털 검색어 순위 수집 및 분석하기](https://www.meetup.com/ko-KR/awskrug/events/255154810/)
+  - **일시** : 2018년 10월 11일
+  - **발표자 : 발표주제**
+    - 황정아 - [로그 분석기 Serverless Architecture 로 구축하기]()
+    - 변규현 - [포털 검색어 순위 수집 및 분석 후기](https://www.slideshare.net/KyuhyunByun1/ss-119161567)
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/2018-10-11.jpg" width="400"/>
+
+## 8차 모임 : [AWSKRUG 통합소모임](https://www.meetup.com/ko-KR/awskrug/events/254585156/)
+  - **일시** : 2018년 9월 19일
+  - **발표자 : 발표주제**
+    - 유은총 - [Slack과 Rust로 Amazon ECS에 서비스 배포하기](https://www.slideshare.net/eunchongyu/slack-rust-amazon-ecs)
+    - 김진용 - [스타트업을 위한 지속가능한 컨텐츠 관리를 위한 아키텍처 ]()
+    - 윤제상 - [AWS Aurora로의 안전한 마이그레이션 경험 공유 ](https://www.slideshare.net/jesangyoon/amazon-aurora-migration)
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/2018-09-19.jpg" width="400"/>
+
+## 2018 서버리스 핸즈온 3차 : [Serverless Hands-on](https://www.meetup.com/ko-KR/awskrug/events/252838800/)
+  - **일시** : 2018년 8월 11일
+  - **발표자 : 발표주제**
+    - 신재현(sinsky), 윤평호(mosesyoon) - [쉽고 빠르게 서버리스 데이터레이크 구축하기](https://github.com/awskrug/handson-labs-2018/tree/master/Serverless/3_serverless_datalake)
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/2018-08-11-serverless1.jpg" width="400"/>
+  <img src="images/2018-08-11-serverless2.jpg" width="400"/>
+
 ## 2018 서버리스 핸즈온 2차 : [Serverless Hands-on](https://www.meetup.com/ko-KR/awskrug/events/252365126/)
   - **일시** : 2018년 7월 28일
   - **발표자 : 발표주제**
