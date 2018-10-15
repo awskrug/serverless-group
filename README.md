@@ -14,7 +14,7 @@
 ## 9차 모임 : [로그 분석기 Serverless Architecture 로 구축하기 & 포털 검색어 순위 수집 및 분석하기](https://www.meetup.com/ko-KR/awskrug/events/255154810/)
   - **일시** : 2018년 10월 11일
   - **발표자 : 발표주제**
-    - 황정아 - [로그 분석기 Serverless Architecture 로 구축하기]()
+    - 황정아 - [로그 분석기 Serverless Architecture 로 구축하기](https://docs.google.com/presentation/d/1BViD5W8QooQYMiitKByqvbWgQw0KN85jTHIJVXNKPXo)
     - 변규현 - [포털 검색어 순위 수집 및 분석 후기](https://www.slideshare.net/KyuhyunByun1/ss-119161567)
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/2018-10-11.jpg" width="400"/>
