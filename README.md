@@ -11,6 +11,15 @@
 
 # Meetups
 
+
+
+## 10차 모임 : [Serverless로 하는 Content Recommendation (Collaborative Filtering)](https://www.meetup.com/ko-KR/awskrug/events/255154810/)
+  - **일시** : 2018년 11월 08일
+  - **발표자 : 발표주제**
+    - 이상현 ( Vingle, Tech lead ) - [Serverless로 하는 Content Recommendation (Collaborative Filtering)](https://www.icloud.com/keynote/0SG91tDeKl4iff9UGVkbCnCUw?fbclid=IwAR3hfu05tW6f96jefTs1tpcwaHOa3REuSmgR3ZGz49VBQAo3pgypF_LtJzU#Serverless_Content_Recommendation)
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/2018-11-08.jpg" width="400"/>
+
 ## 9차 모임 : [로그 분석기 Serverless Architecture 로 구축하기 & 포털 검색어 순위 수집 및 분석하기](https://www.meetup.com/ko-KR/awskrug/events/255154810/)
   - **일시** : 2018년 10월 11일
   - **발표자 : 발표주제**
