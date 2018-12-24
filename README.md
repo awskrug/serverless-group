@@ -13,7 +13,17 @@
 
 
 
-## 10차 모임 : [Serverless로 하는 Content Recommendation (Collaborative Filtering)](https://www.meetup.com/ko-KR/awskrug/events/255154810/)
+## 11차 모임 : [AWSKRUG 연말 연합 소모임 및 송년회](https://www.meetup.com/ko-KR/awskrug/events/257050186/)
+  - **일시** : 2018년 12월 20일
+  - **발표자 : 발표주제**
+    - 이무열 ( Vingle ) - [Serverless Programmable Voice](https://www.slideshare.net/mooyoul/serverless-programmable-voice)
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/2018-12-20-2.jpg" width="400"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/2018-12-20-3.jpg" width="400"/>
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/2018-12-20-1.jpg" width="400"/>
+
+## 10차 모임 : [Serverless로 하는 Content Recommendation (Collaborative Filtering)](https://www.meetup.com/ko-KR/awskrug/events/255959371/)
   - **일시** : 2018년 11월 08일
   - **발표자 : 발표주제**
     - 이상현 ( Vingle, Tech lead ) - [Serverless로 하는 Content Recommendation (Collaborative Filtering)](https://www.icloud.com/keynote/0SG91tDeKl4iff9UGVkbCnCUw?fbclid=IwAR3hfu05tW6f96jefTs1tpcwaHOa3REuSmgR3ZGz49VBQAo3pgypF_LtJzU#Serverless_Content_Recommendation)
