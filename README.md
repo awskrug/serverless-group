@@ -19,7 +19,7 @@
     - 이무열 ( Vingle ) - [Serverless Programmable Voice](https://www.slideshare.net/mooyoul/serverless-programmable-voice)
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/2018-12-20-2.jpg" width="400"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/2018-12-20-3.jpg" width="400"/>
+  <img src="images/2018-12-20-3.jpg" width="400"/>
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/2018-12-20-1.jpg" width="400"/>
 
