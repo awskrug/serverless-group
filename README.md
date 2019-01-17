@@ -1,6 +1,6 @@
 # AWSKRUG Serverless Group
 
-<img src='images/Serverless-Group-Logo.png' width='300'>
+<img src='images/Serverless-Group-Logo.jpeg' width='300'>
 
 - since 2017
 - [AWSKRUG Facebook Link](https://www.facebook.com/groups/awskrug/)
@@ -12,6 +12,13 @@
 # Meetups
 
 
+## 12차 모임 : [DevOps 0-10 : to The best from fundamental](https://www.meetup.com/ko-KR/awskrug/events/257772672/)
+  - **일시** : 2019년 1월 10일
+  - **발표자 : 발표주제**
+    - 송주영 ( 삼성전자 ) - [DevOps 0-10 : to The best from fundamental](/)
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/2019-01-10-1.png" width="400"/>
+  <img src="images/2019-01-10-2.png" width="400"/>
 
 ## 11차 모임 : [AWSKRUG 연말 연합 소모임 및 송년회](https://www.meetup.com/ko-KR/awskrug/events/257050186/)
   - **일시** : 2018년 12월 20일
