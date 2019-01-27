@@ -1,6 +1,6 @@
 # AWSKRUG Serverless Group
 
-<img src='images/Serverless-Group-Logo.jpeg' width='300'>
+<img src='https://raw.githubusercontent.com/awskrug/serverless-group/master/images/Serverless-Group-logo.jpeg' width='400'>
 
 - since 2017
 - [AWSKRUG Facebook Link](https://www.facebook.com/groups/awskrug/)
