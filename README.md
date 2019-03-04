@@ -15,7 +15,7 @@
   - **일시** : 2019년 2월 14일
   - **발표자 : 발표주제**
     - 변규현 ( 모빌리스트, CTO ) - [Native addon를 포함하여 Node.js + Typescript 빌드 및 배포하기](https://www.slideshare.net/KyuhyunByun1/native-addon-nodejs-typescript-serverless)
-    - 김승호 ( FA, 서버리스그룹 운영진 ) -  Python + AWS Lambda로 구현하는 초경량 웹 크롤러
+    - 김승호 ( FA, 서버리스그룹 운영진 ) -  [Python + AWS Lambda로 구현하는 초경량 웹 크롤러](https://www.slideshare.net/SeunghoKim/awskrug-serverless-slideshare-133189054)
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/2019-02-14-1.jpg" width="400"/>
   <img src="images/2019-02-14-2.jpg" width="400"/>
