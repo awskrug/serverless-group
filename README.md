@@ -14,7 +14,7 @@
 ## 14차 모임 : [Lambda를 이용한 Serverless dynamic front web server에 대해 논해보아요 :)](https://www.meetup.com/ko-KR/awskrug/events/259582059/)
   - **일시** : 2019년 3월 14일
   - **발표자 : 발표주제**
-    - 박찬민 ( Aart 개발자 / 서버리스모임 운영진 )
+    - 박찬민 ( Aart 개발자 / 서버리스모임 운영진 )
       - 발표자료: [Lambda를 이용한 Serverless dynamic front web server에 대해 논해보아요😀 (업데이트 예정)]()
       - Demo: [https://github.com/ChanMinPark/lambda-nuxt](https://github.com/ChanMinPark/lambda-nuxt)
 
