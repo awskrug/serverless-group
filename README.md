@@ -11,6 +11,18 @@
 
 # Meetups
 
+## 2019 서버리스 핸즈온 1차 : [Serverless Hands-on](https://www.meetup.com/ko-KR/awskrug/events/260465015/)
+  - **일시** : 2019년 4월 27일
+  - **발표자 : 발표주제**
+    - 이상현 ( Technical Leader, Vingle Inc. / AWS Serverless Hero )
+      - [발표자료(click)](https://www.icloud.com/keynote/0fL0mibQtgTg4ABkkZz91Qi0g#Handson)
+      - [Github Repository(click)](https://github.com/breath103/serverless-websocket-example)
+      - Demo: [https://fz5bsno29d.execute-api.ap-northeast-2.amazonaws.com/prod](https://fz5bsno29d.execute-api.ap-northeast-2.amazonaws.com/prod)
+
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/2019-04-27-1.jpg" width="400"/>
+  <img src="images/2019-04-27-2.jpg" width="400"/>
+
 ## 14차 모임 : [Lambda를 이용한 Serverless dynamic front web server에 대해 논해보아요 :)](https://www.meetup.com/ko-KR/awskrug/events/259582059/)
   - **일시** : 2019년 3월 14일
   - **발표자 : 발표주제**
