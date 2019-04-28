@@ -54,6 +54,11 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/2019-01-10-1.png" width="400"/>
   <img src="images/2019-01-10-2.png" width="400"/>
 
+## 2018년 Meetups
+
+<details>
+  <summary>펼쳐서 보기</summary>
+  
 ## 11차 모임 : [AWSKRUG 연말 연합 소모임 및 송년회](https://www.meetup.com/ko-KR/awskrug/events/257050186/)
   - **일시** : 2018년 12월 20일
   - **발표자 : 발표주제**
@@ -161,3 +166,5 @@
     - 김현민 - [Wild Rydes 서버리스 워크샵 - 데이터 프로세싱](https://github.com/awskrug/aws-serverless-workshops/tree/master/DataProcessing)
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/2017-10-11-serverless.jpg" width="400"/>
+
+</details>
