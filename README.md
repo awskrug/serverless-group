@@ -21,7 +21,10 @@
 
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/2019-04-27-1.jpg" width="400"/>
-  <img src="images/2019-04-27-2.jpg" width="400"/>
+  <img src="images/2019-04-27-3.jpg" width="400"/>
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/2019-04-27-4.jpg" width="400"/>
+  <img src="images/2019-04-27-5.jpg" width="400"/>
 
 ## 14차 모임 : [Lambda를 이용한 Serverless dynamic front web server에 대해 논해보아요 :)](https://www.meetup.com/ko-KR/awskrug/events/259582059/)
   - **일시** : 2019년 3월 14일
