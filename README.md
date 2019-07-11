@@ -11,6 +11,24 @@
 
 # Meetups
 
+## 14차 모임 : [서버리스에 SPA앱 올리기 & 서버리스로 CI/CD 구축하기](https://www.meetup.com/ko-KR/awskrug/events/261824039/)
+  - **일시** : 2019년 6월 12일
+  - **발표자 : 발표주제**
+    - 전창완 ( 데이터블 ) - [서버리스에 SPA앱 올리기]()
+    - 이대명 ( 데이터블 ) - [서버리스로 CI/CD 구축하기]()
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/2019-06-12-1.png" width="400"/>
+<img src="images/2019-06-12-2.png" width="400"/>
+
+## 14차 모임 : [Black Belt Tips for Serverless and Container Development in AWS China](https://www.meetup.com/ko-KR/awskrug/events/260529921/)
+  - **일시** : 2019년 5월 9일
+  - **발표자 : 발표주제**
+    - Pahud Hsieh (謝洪恩, Serverless Specialist SA, AWS)
+      - 발표자료: [Black Belt Tips for Serverless and Container Development in AWS China](https://drive.google.com/open?id=1e0yHcKchG-vPcGn0y0ip9WOFbvl6GxSy)
+      - Github: [https://github.com/pahud](https://github.com/pahud)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/2019-05-09.png" width="400"/>
+
 ## 2019 서버리스 핸즈온 1차 : [Serverless Hands-on](https://www.meetup.com/ko-KR/awskrug/events/260465015/)
   - **일시** : 2019년 4월 27일
   - **발표자 : 발표주제**
@@ -30,7 +48,7 @@
   - **일시** : 2019년 3월 14일
   - **발표자 : 발표주제**
     - 박찬민 ( Aart 개발자 / 서버리스모임 운영진 )
-      - 발표자료: [Lambda를 이용한 Serverless dynamic front web server에 대해 논해보아요😀 (업데이트 예정)]()
+      - 발표자료: Lambda를 이용한 Serverless dynamic front web server에 대해 논해보아요😀
       - Demo: [https://github.com/ChanMinPark/lambda-nuxt](https://github.com/ChanMinPark/lambda-nuxt)
 
 
