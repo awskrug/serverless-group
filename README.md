@@ -11,7 +11,28 @@
 
 # Meetups
 
-## 14차 모임 : [서버리스에 SPA앱 올리기 & 서버리스로 CI/CD 구축하기](https://www.meetup.com/ko-KR/awskrug/events/261824039/)
+## 2019 서버리스 핸즈온 2차 : [Serverless Hands-on 2019 Part.2](https://www.meetup.com/ko-KR/awskrug/events/262459287/)
+  - **일시** : 2019년 7월 13일
+  - **발표자 : 발표주제**
+    - 원지혁 ( 이리온컴퍼니, CTO )
+      - 참고 자료: [서버리스 GraphQL API 개발, 운영기](/res/20190711-2.pdf)
+      - Hands-on document : [https://github.com/tonyfromundefined/serverless-graphql-workshop](https://github.com/tonyfromundefined/serverless-graphql-workshop)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/2019-07-13-1.jpg" width="225"/>
+<img src="images/2019-07-13-2.jpg" width="400"/>
+
+## 17차 모임 : [서버리스 GraphQL API 개발, 운영기 & Amazon Connect를 이용한 Outbound Call 서비스 개발하기](https://www.meetup.com/ko-KR/awskrug/events/262623844/)
+  - **일시** : 2019년 7월 11일
+  - **발표자 : 발표주제**
+    - 원지혁 ( 이리온컴퍼니, CTO ) - [서버리스 GraphQL API 개발, 운영기](/res/20190711-2.pdf)
+    - 현창훈 ( HB Smith ) - [Amazon Connect를 이용한 Outbound Call 서비스 개발하기](https://www.slideshare.net/changhoonhyun/amazon-connect-outbound-call)
+  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/2019-07-11-1.jpg" width="400"/>
+<img src="images/2019-07-11-2.jpg" width="400"/>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/2019-07-11-3.jpg" width="400"/>
+
+## 16차 모임 : [서버리스에 SPA앱 올리기 & 서버리스로 CI/CD 구축하기](https://www.meetup.com/ko-KR/awskrug/events/261824039/)
   - **일시** : 2019년 6월 12일
   - **발표자 : 발표주제**
     - 전창완 ( 데이터블 ) - [서버리스에 SPA앱 올리기]()
@@ -20,7 +41,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/2019-06-12-1.png" width="400"/>
 <img src="images/2019-06-12-2.png" width="400"/>
 
-## 14차 모임 : [Black Belt Tips for Serverless and Container Development in AWS China](https://www.meetup.com/ko-KR/awskrug/events/260529921/)
+## 15차 모임 : [Black Belt Tips for Serverless and Container Development in AWS China](https://www.meetup.com/ko-KR/awskrug/events/260529921/)
   - **일시** : 2019년 5월 9일
   - **발표자 : 발표주제**
     - Pahud Hsieh (謝洪恩, Serverless Specialist SA, AWS)
@@ -29,7 +50,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/2019-05-09.png" width="400"/>
 
-## 2019 서버리스 핸즈온 1차 : [Serverless Hands-on](https://www.meetup.com/ko-KR/awskrug/events/260465015/)
+## 2019 서버리스 핸즈온 1차 : [Serverless Hands-on 2019 Part.1](https://www.meetup.com/ko-KR/awskrug/events/260465015/)
   - **일시** : 2019년 4월 27일
   - **발표자 : 발표주제**
     - 이상현 ( Technical Leader, Vingle Inc. / AWS Serverless Hero )
