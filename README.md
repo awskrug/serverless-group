@@ -11,6 +11,15 @@
 
 # Meetups
 
+## 18차 모임 : [AWS Lambda 재활용과 Cold Start 제대로 이해하기 외 2편](https://www.meetup.com/ko-KR/awskrug/events/264233849/)
+  - **일시** : 2019년 9월 4일
+  - **발표자 : 발표주제**
+    - 이상현 ( AWS Serverless Hero, Catch Fashion CTO )
+      - [AWS Lambda 재활용과 Cold Start 제대로 이해하기 외 2편](/res/20190904.pdf)
+  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/2019-09-04-1.jpg" width="400"/>
+<img src="images/2019-09-04-2.jpg" width="400"/>
+
 ## 2019 서버리스 핸즈온 2차 : [Serverless Hands-on 2019 Part.2](https://www.meetup.com/ko-KR/awskrug/events/262459287/)
   - **일시** : 2019년 7월 13일
   - **발표자 : 발표주제**
