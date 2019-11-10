@@ -11,6 +11,20 @@
 
 # Meetups
 
+## 19차 모임 : [Lambdaless and AWS CDK](https://www.meetup.com/ko-KR/awskrug/events/264948495/)
+  - **일시** : 2019년 10월 22일
+  - **발표자 : 발표주제 **
+    - 이무열 (Software engineer, Vingle)
+      - [Lambdaless and AWS CDK](https://www.slideshare.net/mooyoul/lambdaless-and-aws-cdk-191793017)
+  - Lightning talk
+    - 변규현 - Svelte 소개
+    - 신재현 - Lambda를 활용한 Microservice 운영 경험
+    - 신미르 - Javascript bundler 'rollup' 소개
+    - 이상현 - Catch fashion 기술 소개
+    - 박건상 - 내과의사가 1달만에 만들어 병원 2곳에서 운영하는 웹서비스
+   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/2019-10-22.jpg" width="800"/>
+
 ## 18차 모임 : [AWS Lambda 재활용과 Cold Start 제대로 이해하기 외 2편](https://www.meetup.com/ko-KR/awskrug/events/264233849/)
   - **일시** : 2019년 9월 4일
   - **발표자 : 발표주제**
