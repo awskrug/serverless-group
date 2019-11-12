@@ -21,6 +21,7 @@
     - 신재현 - Lambda를 활용한 Microservice 운영 경험
     - 신미르 - Javascript bundler 'rollup' 소개
     - 이상현 - Catch fashion 기술 소개
+    - 박태성 - AWSKRUG 모임 소개
     - 박건상 - 내과의사가 1달만에 만들어 병원 2곳에서 운영하는 웹서비스
    
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/2019-10-22.jpg" width="800"/>
