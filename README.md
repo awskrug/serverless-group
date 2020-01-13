@@ -11,6 +11,18 @@
 
 # Meetups
 
+## 20차 모임 : [🔍Build serverless search engine(서버리스로 검색엔진 운영하기)](https://www.meetup.com/ko-KR/awskrug/events/267507852/)
+  - **일시** : 2020년 1월 9일
+  - **발표자 : 발표주제 **
+    - 이상현 ( AWS Serverless Hero, Catch Fashion CTO )
+      - [🔍Build serverless search engine(서버리스로 검색엔진 운영하기)](./res/20200109.pdf)
+  - Lightning talk
+    - 조용진 - Nori 형태소 분석기 운영 후기
+    - 변규현 - Lambda Cold Start issue 및 Golang serverless 소개
+   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/2020-01-09-3.jpg" width="400"/>
+<img src="images/2020-01-09-2.jpg" width="400"/>
+
 ## 19차 모임 : [Lambdaless and AWS CDK](https://www.meetup.com/ko-KR/awskrug/events/264948495/)
   - **일시** : 2019년 10월 22일
   - **발표자 : 발표주제 **
