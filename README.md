@@ -11,6 +11,19 @@
 
 # Meetups
 
+## 20차 모임 : [🏛AppSync 를 활용한 리얼타임 서버리스 아키텍쳐](https://www.meetup.com/ko-KR/awskrug/events/268107112/)
+  - **일시** : 2020년 2월 13일
+  - **발표자 : 발표주제 **
+    - 김태우 (Solutions Architect, Classmethod, Inc.)
+      - [🏛AppSync 를 활용한 리얼타임 서버리스 아키텍쳐](https://speakerdeck.com/twkiiim/appsyncreul-hwalyonghan-rieoltaim-seobeoriseu-akitegcyeo)
+  - Lightning talk
+    - 길병찬 - GraphQL의 장단점 소개. [3 factor app 소개](https://3factor.app/)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/2020-02-13-1.jpg" width="400"/>
+<img src="images/2020-02-13-3.jpg" width="400"/>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/2020-02-13-2.jpg" width="400"/>
+
 ## 20차 모임 : [🔍Build serverless search engine(서버리스로 검색엔진 운영하기)](https://www.meetup.com/ko-KR/awskrug/events/267507852/)
   - **일시** : 2020년 1월 9일
   - **발표자 : 발표주제 **
