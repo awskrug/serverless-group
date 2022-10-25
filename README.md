@@ -12,7 +12,7 @@
 # Meetups
 
 ## 22차 모임 : [Back to the basic: 람다를 잘 쓰기 위한 방법!](https://www.meetup.com/ko-KR/awskrug/events/288666270/)
-  - **일시** : 2020년 2월 13일
+  - **일시** : 2022년 10월 4일
   - **발표자 : 발표주제 **
     - 신재현 (SRE Engineer, 무신사)
       - [Back to the basic: 람다를 잘 쓰기 위한 방법!](https://mysetting.io/slides/back-to-the-basic-lambda)
