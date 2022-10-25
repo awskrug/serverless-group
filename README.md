@@ -11,7 +11,16 @@
 
 # Meetups
 
-## 20차 모임 : [🏛AppSync 를 활용한 리얼타임 서버리스 아키텍쳐](https://www.meetup.com/ko-KR/awskrug/events/268107112/)
+## 22차 모임 : [Back to the basic: 람다를 잘 쓰기 위한 방법!](https://www.meetup.com/ko-KR/awskrug/events/288666270/)
+  - **일시** : 2020년 2월 13일
+  - **발표자 : 발표주제 **
+    - 신재현 (SRE Engineer, 무신사)
+      - [Back to the basic: 람다를 잘 쓰기 위한 방법!](https://mysetting.io/slides/back-to-the-basic-lambda)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/2022-10-04-1.jpg" width="400"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/2022-10-04-2.jpg" width="400"/>
+
+## 21차 모임 : [🏛AppSync 를 활용한 리얼타임 서버리스 아키텍쳐](https://www.meetup.com/ko-KR/awskrug/events/268107112/)
   - **일시** : 2020년 2월 13일
   - **발표자 : 발표주제 **
     - 김태우 (Solutions Architect, Classmethod, Inc.)
@@ -20,7 +29,7 @@
     - 길병찬 - GraphQL의 장단점 소개. [3 factor app 소개](https://3factor.app/)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/2020-02-13-1.jpg" width="400"/>
-<img src="images/2020-02-13-3.jpg" width="400"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/2020-02-13-3.jpg" width="400"/>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/2020-02-13-2.jpg" width="400"/>
 
@@ -32,7 +41,7 @@
   - Lightning talk
     - 조용진 - Nori 형태소 분석기 운영 후기
     - 변규현 - Lambda Cold Start issue 및 Golang serverless 소개
-   
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/2020-01-09-3.jpg" width="400"/>
 <img src="images/2020-01-09-2.jpg" width="400"/>
 
