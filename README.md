@@ -18,6 +18,7 @@
       - [Back to the basic: 람다를 잘 쓰기 위한 방법!](https://mysetting.io/slides/back-to-the-basic-lambda)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/2022-10-04-1.jpg" width="400"/>
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/2022-10-04-2.jpg" width="400"/>
 
 ## 21차 모임 : [🏛AppSync 를 활용한 리얼타임 서버리스 아키텍쳐](https://www.meetup.com/ko-KR/awskrug/events/268107112/)
@@ -29,6 +30,7 @@
     - 길병찬 - GraphQL의 장단점 소개. [3 factor app 소개](https://3factor.app/)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/2020-02-13-1.jpg" width="400"/>
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/2020-02-13-3.jpg" width="400"/>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/2020-02-13-2.jpg" width="400"/>
