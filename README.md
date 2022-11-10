@@ -11,6 +11,16 @@
 
 # Meetups
 
+## 23차 모임 : [AWS Lambda 를 활용한 웹기반 Serverless 개발환경 구축 사례](https://www.meetup.com/ko-KR/awskrug/events/289305052/)
+  - **일시** : 2022년 11월 8일
+  - **발표자 : 발표주제 **
+    - 이종훈 (CEO, 클라우드퀘스트)
+      - [AWS Lambda 를 활용한 웹기반 Serverless 개발환경 구축 사례](./res/20221108.pdf)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/2022-11-08-1.jpg" width="400"/>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/2022-11-08-2.jpg" width="400"/>
+
 ## 22차 모임 : [Back to the basic: 람다를 잘 쓰기 위한 방법!](https://www.meetup.com/ko-KR/awskrug/events/288666270/)
   - **일시** : 2022년 10월 4일
   - **발표자 : 발표주제 **
