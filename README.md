@@ -11,6 +11,16 @@
 
 # Meetups
 
+## 24차 모임 : [Serverless 를 이용한 Multi-tenancy 서비스 만들기 & Going Fully Serverless In Real World](https://www.meetup.com/awskrug/events/290550111/)
+  - **일시** : 2023년 1월 10일
+  - **발표자 : 발표주제 **
+    - 이상희 (AWS Solution Architect): [Serverless 를 이용한 Multi-tenancy 서비스 만들기](./res/2023-01-13_serverless_multi_tenancy.pdf)
+    - 이상현 님(AWS Serverless Hero / Mirror CEO): [Going Fully Serverless In Real World](./res/2023-01-11_going_fully_serverless_in_real_world.pdf)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/2023-01-10-1.jpg" width="400"/>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/2023-01-10-2.jpg" width="400"/>
+
 ## 23차 모임 : [AWS Lambda 를 활용한 웹기반 Serverless 개발환경 구축 사례](https://www.meetup.com/ko-KR/awskrug/events/289305052/)
   - **일시** : 2022년 11월 8일
   - **발표자 : 발표주제 **
