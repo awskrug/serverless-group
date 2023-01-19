@@ -15,7 +15,7 @@
   - **일시** : 2023년 1월 10일
   - **발표자 : 발표주제 **
     - 이상희 (AWS Solution Architect): [Serverless 를 이용한 Multi-tenancy 서비스 만들기](./res/2023-01-13_serverless_multi_tenancy.pdf)
-    - 이상현 님(AWS Serverless Hero / Mirror CEO): [Going Fully Serverless In Real World](./res/2023-01-11_going_fully_serverless_in_real_world.pdf)
+    - 이상현 (AWS Serverless Hero / Mirror CEO): [Going Fully Serverless In Real World](./res/2023-01-11_going_fully_serverless_in_real_world.pdf)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/2023-01-10-1.jpg" width="400"/>
 
