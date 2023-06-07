@@ -11,6 +11,16 @@
 
 # Meetups
 
+## 25차 모임 : [이벤트 기반의 응용 아키텍처 “3factor app” & Slack Bot with ChatGPT](https://www.meetup.com/ko-KR/awskrug/events/293608432/)
+  - **일시** : 2023년 6월 7일
+  - **발표자 : 발표주제 **
+    - 김선우 (Serverless Operations, Inc): [서버리스의 장점을 극대화하는 이벤트 기반의 응용 아키텍쳐 "3factor app"의 소개 및 AWS 서버리스로 구현해보기](./res/20230607_AWSKRUG_Serverless_Meetup.pdf)
+    - 유정열 (AWS ML Hero / SRE, 당근마켓): [ChatGPT 가 알려주는대로 만드는 Slack Bot](./res/20230607_SlackBot_With_ChatGPT.pdf)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/2023-06-07-1.jpg" width="400"/>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/2023-06-07-2.jpg" width="400"/>
+
 ## 24차 모임 : [Serverless 를 이용한 Multi-tenancy 서비스 만들기 & Going Fully Serverless In Real World](https://www.meetup.com/awskrug/events/290550111/)
   - **일시** : 2023년 1월 10일
   - **발표자 : 발표주제 **
