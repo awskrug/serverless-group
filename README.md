@@ -11,6 +11,15 @@
 
 # Meetups
 
+## 26차 모임 : [AWS Full Serverless 기반 대기열 구현](https://www.meetup.com/ko-KR/awskrug/events/294423985/)
+  - **일시** : 2023년 7월 4일
+  - **발표자 : 발표주제 **
+    - 박상운 (Dev Lead, 리콘랩스): [AWS Full Serverless 기반 대기열 구현](./res/20230704_AWSKRUG_Serverless_Meetup.pdf)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/2023-07-04-1.jpg" width="400"/>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/2023-07-04-2.jpg" width="400"/>
+
 ## 25차 모임 : [이벤트 기반의 응용 아키텍처 “3factor app” & Slack Bot with ChatGPT](https://www.meetup.com/ko-KR/awskrug/events/293608432/)
   - **일시** : 2023년 6월 7일
   - **발표자 : 발표주제 **
@@ -30,6 +39,11 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/2023-01-10-1.jpg" width="400"/>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/2023-01-10-2.jpg" width="400"/>
+
+## 2020~2022년 Meetups
+
+<details>
+  <summary>펼쳐서 보기</summary>
 
 ## 23차 모임 : [AWS Lambda 를 활용한 웹기반 Serverless 개발환경 구축 사례](https://www.meetup.com/ko-KR/awskrug/events/289305052/)
   - **일시** : 2022년 11월 8일
@@ -77,6 +91,13 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/2020-01-09-3.jpg" width="400"/>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/2020-01-09-2.jpg" width="400"/>
+
+</details>
+
+## 2019년 Meetups
+
+<details>
+  <summary>펼쳐서 보기</summary>
 
 ## 19차 모임 : [Lambdaless and AWS CDK](https://www.meetup.com/ko-KR/awskrug/events/264948495/)
   - **일시** : 2019년 10월 22일
@@ -190,6 +211,8 @@
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/2019-01-10-1.png" width="400"/>
   <img src="images/2019-01-10-2.png" width="400"/>
+
+</details>
 
 ## 2018년 Meetups
 
