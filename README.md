@@ -11,6 +11,45 @@
 
 # Meetups
 
+## 2025년 Meetups
+
+## [2월 25일 소모임](https://www.meetup.com/awskrug/events/306073210/)
+- 일시: 2025년 2월 25일
+- 발표자: 발표 주제
+  - 이현제 (AWSKRUG 서버리스 오거나이저/크래프타)
+    - WS SAM으로 안정적인 서버리스 결제 시스템 구축하기
+  - 김진영 (AWSKRUG 서버리스 오거나이저/한국분양정보)
+    - 서버리스를 활용해 서버 개발자 1명으로 MAU 10만 서비스 운영하기
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/2025-02-25-1.jpg" width="400"/>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/2025-02-25-2.jpg" width="400"/>
+
+## [3월 20일 소모임](https://www.meetup.com/ko-KR/awskrug/events/306561921/)
+- 일시: 2025년 3월 20일
+- 발표자: 발표 주제
+  - 박상운(Dev Lead, 리콘랩스)
+    - 100% 서버리스로 구축하는 채팅 서버 구현 실습
+
+
+
+## [4월 17일 소모임](https://www.meetup.com/awskrug/events/306972397/?eventOrigin=your_events)
+- 일시: 2025년 4월 17일
+- 발표자: 발표 주제
+  - 김선우 (Serverless Operations, Inc)
+    - 일본 방송국의 서버리스 기반 생성AI 업무 자동화 사례 소개
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/2025-04-17-1.jpg" width="400"/>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/2025-04-17-2.jpg" width="400"/>
+
+
+
+## 2023년 Meetups
+
+<details>
+  <summary>펼쳐서 보기</summary>
+
 ## 26차 모임 : [AWS Full Serverless 기반 대기열 구현](https://www.meetup.com/ko-KR/awskrug/events/294423985/)
   - **일시** : 2023년 7월 4일
   - **발표자 : 발표주제 **
@@ -39,6 +78,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/2023-01-10-1.jpg" width="400"/>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/2023-01-10-2.jpg" width="400"/>
+
+</details>
 
 ## 2020~2022년 Meetups
 
