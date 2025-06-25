@@ -39,9 +39,22 @@
   - 김선우 (Serverless Operations, Inc)
     - 일본 방송국의 서버리스 기반 생성AI 업무 자동화 사례 소개
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/2025-04-17-2.jpg" width="400"/>
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/2025-04-17-1.jpg" width="400"/>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/2025-04-17-2.jpg" width="400"/>
+
+## [6월 24일 소모임](https://www.meetup.com/awskrug/events/308057565/)
+- 일시: 2025년 6월 24일
+- 발표자: 발표 주제
+  - 구경열님 (Ktown4u DevOps)
+    - 서버리스와 생성형 ai를 활용한 슬랙봇 구성 및 데모
+  - 강은호님 (STAYGE Labs 데브옵스엔지니어)
+    - 서버리스, 정말 관리가 필요 없을까?
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/2025-06-24-1.jpg" width="400"/>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/2025-06-24-2.jpg" width="400"/>
 
 
 
