@@ -56,6 +56,16 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/2025-06-24-2.jpg" width="400"/>
 
+## [7월 29일 소모임](https://www.meetup.com/awskrug/events/308963371/)
+- 일시: 2025년 7월 29일
+- 발표자: 발표 주제
+  - 박상운(Dev Lead, 리콘랩스)
+    - Amazon Q를 활용한 Vibe Coding+Aurora DSQL 활용 Serverless 핸즈온: 100% Serverless 게시판 만들고 배포해보기
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/2025-07-29-1.jpg" width="400"/>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/2025-07-29-2.jpg" width="400"/>
+
 
 
 ## 2023년 Meetups
