@@ -66,6 +66,17 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/2025-07-29-2.jpg" width="400"/>
 
+## [9월 23일 소모임](https://www.meetup.com/awskrug/events/310882066/)
+- 일시: 2025년 7월 29일
+- 발표자: 발표 주제
+  - 박상운(Dev Lead, 리콘랩스)
+    - Aurora DSQL 소개 및 활용
+  - 이현제(AWSKRUG 서버리스 오거나이저/크래프타)
+    - Lambda가 고정 IP를 찾아 떠난 VPC 탐험기
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/2025-09-23-1.jpg" width="400"/>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/2025-09-23-2.jpg" width="400"/>
 
 
 ## 2023년 Meetups
